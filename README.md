@@ -28,4 +28,7 @@ It will boost the audio in the files and then place them in an auto-created `boo
 │       └──  W2Lec2.mp4
 └── boost_audio.py
 ```
-The file names should not have any spaces in them. The program will not be able to find the files.
+
+### Notes
+- The file names should not have any spaces in them. The program will not be able to find the files.
+- Please have FFMPEG and Python3 installed in your system. FFMPEG should be added to path if you're on windows.
